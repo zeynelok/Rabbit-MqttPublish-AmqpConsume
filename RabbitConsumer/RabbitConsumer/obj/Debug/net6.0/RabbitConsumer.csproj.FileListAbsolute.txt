@@ -1,0 +1,17 @@
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\bin\Debug\net6.0\RabbitConsumer.exe
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\bin\Debug\net6.0\RabbitConsumer.deps.json
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\bin\Debug\net6.0\RabbitConsumer.runtimeconfig.json
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\bin\Debug\net6.0\RabbitConsumer.dll
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\bin\Debug\net6.0\RabbitConsumer.pdb
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\RabbitConsumer.csproj.AssemblyReference.cache
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\RabbitConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\RabbitConsumer.AssemblyInfoInputs.cache
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\RabbitConsumer.AssemblyInfo.cs
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\RabbitConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\RabbitConsumer.csproj.CopyComplete
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\RabbitConsumer.dll
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\refint\RabbitConsumer.dll
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\RabbitConsumer.pdb
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\RabbitConsumer.genruntimeconfig.cache
+C:\Users\Zey\Desktop\RabbitConsumer\RabbitConsumer\obj\Debug\net6.0\ref\RabbitConsumer.dll
